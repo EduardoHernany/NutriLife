@@ -1,3 +1,7 @@
-git remote add origin https://github.com/EduardoHernany/palomakoba-equipe.git
+git remote add origin https://github.com/EduardoHernany/palomakoba-2.0.git
 git branch -M main
 git push -u origin main
+
+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
+
+teste
